@@ -46,5 +46,4 @@ we use to communicate, collaborate and self-organize.
 4. ###Meetup.com
 	is our event organizing tool. 
 	
-	**[You can sign
-	up for upcoming civic-hack nights and other important events](http://	www.meetup.com/codefordenver/).**
+	**[You can sign up for upcoming civic-hack nights and other important events](http://www.meetup.com/codefordenver/).**
