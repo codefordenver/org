@@ -9,3 +9,7 @@ hr {
   margin: 1em 0;
   padding: 0;
 }
+.jumbotron {
+  margin: 0.2em auto;
+  padding: 0.5em;
+}
