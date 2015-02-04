@@ -1,5 +1,10 @@
 //var React = require("react");
-var p = $.ajax("https://api.github.com/repos/codefordenver/org/contents/CONTRIBUTING.md", {
+
+const doc = "CONTRIBUTING.md";
+
+document.title = doc;
+
+var p = $.ajax(`https://api.github.com/repos/codefordenver/org/contents/${doc}`, {
     crossDomain: true,
     "Accept": "application/vnd.github.3.raw"
 });
