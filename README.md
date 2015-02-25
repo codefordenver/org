@@ -60,7 +60,7 @@ Our current workflow includes:
 * Story management: [Waffle.io](https://waffle.io/)
 * Documentation/Technical writing: [Google Docs](https://drive.google.com/folderview?id=0B15HLk4_JV3nWjkyOGtFUmhKZDQ&usp=sharing_eid)
 
-Dont worry if youre unfamiliar with any of these tools. Well help you get up and running.
+Dont worry if you're unfamiliar with any of these tools. Well help you get up and running.
 
 For more info on getting started, see our [CONTRIBUTING](https://github.com/codefordenver/org/blob/master/CONTRIBUTING.md) document.
 
@@ -132,7 +132,7 @@ If you need more help navigating the learning ecosystem, check out this helpful 
 
 ####What languages / frameworks do you typically use?
 
-We dont use one particular language or framework all of the time. What we use depends on the nature of the project and the groups that we serve. 
+We don't use one particular language or framework all of the time. What we use depends on the nature of the project and the groups that we serve. 
 
 
 
