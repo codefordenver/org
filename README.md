@@ -60,7 +60,7 @@ Our current workflow includes:
 * Story management: [Waffle.io](https://waffle.io/)
 * Documentation/Technical writing: [Google Docs](https://drive.google.com/folderview?id=0B15HLk4_JV3nWjkyOGtFUmhKZDQ&usp=sharing_eid)
 
-Dont worry if you're unfamiliar with any of these tools. Well help you get up and running.
+Don't worry if you're unfamiliar with any of these tools. Well help you get up and running.
 
 For more info on getting started, see our [CONTRIBUTING](https://github.com/codefordenver/org/blob/master/CONTRIBUTING.md) document.
 

@@ -46,7 +46,7 @@ we use to communicate, collaborate and self-organize.
 
 1. ###Waffle.io
 	is our light-weight project management solution. 
-	A simple Kanban not unline Trello with very nice github integration.
+	A simple Kanban not unlike Trello with very nice github integration.
  
  	**Once you have a github account, you should have 
  	access the waffle boards over at [waffle.io](https://waffle.io/).**
