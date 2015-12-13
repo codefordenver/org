@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/codefordenver/org.png?label=ready&title=Ready)](https://waffle.io/codefordenver/org)
 # Code for Denver Organization
 
 ## Table of Contents
