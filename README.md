@@ -56,7 +56,7 @@ A hack night is an informal event where developers get together and work on a pr
 
 Our current workflow includes:
 
-* General/team communication and chat: [Flowdoc](http://www.flowdoc.com)
+* General/team communication and chat: [Flowdock](http://www.flowdock.com)
 * Version Control: [Git](http://git-scm.com/)/[Github](https://github.com/codefordenver)
 * Story management: [Waffle.io](https://waffle.io/)
 * Documentation/Technical writing: [Google Docs](https://drive.google.com/folderview?id=0B15HLk4_JV3nWjkyOGtFUmhKZDQ&usp=sharing_eid)
