@@ -7,16 +7,11 @@
 * [For Non-coders](#noncoders)
 * [For Coders (or Would-be Coders)](#coders)
 
----
-
 ## Welcome!
 
 This is a repository for organizational level resources for Code for Denver.
 
----
-
 ## FAQ
----
 
 ### Background Information
 
